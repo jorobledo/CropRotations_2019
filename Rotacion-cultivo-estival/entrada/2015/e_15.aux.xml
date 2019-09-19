@@ -1,0 +1,19 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Thematic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>e_15</Description>
+    <NoDataValue>1.50000000000000E+01</NoDataValue>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="NBITS">4</MDI>
+      <MDI key="PIXELTYPE">SIGNEDBYTE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

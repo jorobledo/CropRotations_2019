@@ -1,0 +1,60 @@
+INFO:root:Started processing at :15-57
+INFO:root:1 0
+INFO:root:Evaluating cba
+INFO:root:CROP ROTATIONS FOR cba
+INFO:root:List of raster files 
+INFO:root:C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada\2011\2011_reclasificado.tif
+INFO:root:C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada\2012\2012_reclasificado.tif
+INFO:root:C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada\2013\2013_reclasificado.tif
+INFO:root:C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada\2014\2014_reclasificado.tif
+INFO:root:C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada\2015\2015_reclasificado.tif
+INFO:root:C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada\2016\2016_reclasificado.tif
+INFO:root:C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada\2017\2017_reclasificado.tif
+INFO:root:First Year 2011
+INFO:root:Last Year 2017
+INFO:root:Processing 7 rasters located in C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\entrada
+INFO:root:	Extracting attributes for raster 2011_reclasificado.tif
+INFO:root:	Extracting attributes for raster 2012_reclasificado.tif
+INFO:root:	Extracting attributes for raster 2013_reclasificado.tif
+INFO:root:	Extracting attributes for raster 2014_reclasificado.tif
+INFO:root:	Extracting attributes for raster 2015_reclasificado.tif
+INFO:root:	Extracting attributes for raster 2016_reclasificado.tif
+INFO:root:	Extracting attributes for raster 2017_reclasificado.tif
+INFO:root:	Replacing the NoData cells for _reclas
+INFO:root:	Replacing the NoData cells for _reclas
+INFO:root:	Replacing the NoData cells for _reclas
+INFO:root:	Replacing the NoData cells for _reclas
+INFO:root:	Replacing the NoData cells for _reclas
+INFO:root:	Replacing the NoData cells for _reclas
+INFO:root:Merging all CDLs
+INFO:root:Simplifying crop rotations
+INFO:root:% of rotations which match CDL data exactly: 100.00%
+INFO:root:% of rotations which have been simplified: 0.00%
+INFO:root:% net accuracy: 100.00%
+INFO:root:Start Time: martes, 26 de febrero de 2019 15:57:58
+Failed to execute. Parameters are not valid.
+ERROR 000864: From value field: The input is not within the defined domain.
+ERROR 000308: Invalid field type
+ERROR 000864: To value field: The input is not within the defined domain.
+ERROR 000308: Invalid field type
+ERROR 000864: Output value field: The input is not within the defined domain.
+ERROR 000308: Invalid field type
+Failed to execute (ReclassByTable).
+Failed at martes, 26 de febrero de 2019 15:57:58 (Elapsed Time: 0,02 seconds)
+INFO:root:Start Time: martes, 26 de febrero de 2019 15:57:58
+Failed to execute. Parameters are not valid.
+ERROR 000865: Input raster: C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\salida\cba15-57_1_0\cba\rot_cba_7yrs does not exist.
+Failed to execute (ReclassByTable).
+Failed at martes, 26 de febrero de 2019 15:57:58 (Elapsed Time: 0,03 seconds)
+INFO:root:Start Time: martes, 26 de febrero de 2019 15:57:58
+Failed to execute. Parameters are not valid.
+ERROR 000865: Input raster: C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\salida\cba15-57_1_0\cba\high_cba_7yrs does not exist.
+Failed to execute (ReclassByTable).
+Failed at martes, 26 de febrero de 2019 15:57:59 (Elapsed Time: 0,03 seconds)
+INFO:root:Start Time: martes, 26 de febrero de 2019 15:57:59
+Failed to execute. Parameters are not valid.
+ERROR 000732: Input Raster: Dataset C:\Users\Antonio\Google Drive (aaoki@agro.unc.edu.ar)\FINAL-rotaciones\Rotacion-cultivo-Invernal\salida\cba15-57_1_0\cba\product_cba_7 does not exist or is not supported
+Failed to execute (CopyRaster).
+Failed at martes, 26 de febrero de 2019 15:57:59 (Elapsed Time: 0,04 seconds)
+INFO:root:Deleting raster all_cba_7yrs
+INFO:root:Finished processing at :15:57:59
