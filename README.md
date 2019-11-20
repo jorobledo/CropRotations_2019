@@ -1,4 +1,4 @@
-# Rotaciones_2019
+# CropRotations_2019
 Contiene las rotaciones estivales e invernales
 
 En la respectiva carpeta src (en estival o invernal):
